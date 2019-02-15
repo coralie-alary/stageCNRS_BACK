@@ -16,7 +16,6 @@ import java.util.Set;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import fr.eccad.eccad2.model.DatasetService;
 import fr.eccad.models.constant.EccadConstants;
 import fr.eccad.models.dto.DtoTools;
 import fr.eccad.models.dto.category.CategoryDTO;

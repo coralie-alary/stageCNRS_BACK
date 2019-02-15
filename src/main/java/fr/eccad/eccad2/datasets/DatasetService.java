@@ -1,6 +1,6 @@
 //INTERFACE DAO
 
-package fr.eccad.eccad2.model;
+package fr.eccad.eccad2.datasets;
 
 import java.util.List;
 import java.util.Map;
